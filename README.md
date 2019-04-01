@@ -1,2 +1,3 @@
 # UniversalInterface
-架构师 “数据源”思路 demo
+
+Activity、Fragment等使用万能接口相互传值
